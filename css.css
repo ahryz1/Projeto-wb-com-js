@@ -1,0 +1,129 @@
+
+
+
+
+body
+{
+  margin-left: 5%;
+  margin-right: 10%;
+  font-family: "Arial", sans-serif;
+  background-image: url("https://techbreak.ig.com.br/wp-content/uploads/2020/05/call-of-duty-ww2.jpg");
+  background-repeat:  repeat;
+  background-position: right;
+  background-size: cover;
+  text-align: justify  ;
+  text-decoration-color: red;
+}
+
+.logo
+{
+  width: 175px;
+  float:inherit;
+  border-radius: 100px;
+  position: relative;
+  left: 550;
+  top: 15;
+
+}
+.top
+{
+  background: url("https://encyclopedia.ushmm.org/images/large/b3a43994-8230-4211-ab2e-c67ac4a336a8.jpg.pagespeed.ce.t_gl02rcmp.jpg") ;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+}
+.imgs
+{
+  width: 175px;
+  float:none;
+  border-radius: 100px;
+}
+
+h1,h2,h3
+{
+  text-align: center;
+  color: gold;
+}
+
+.curiosidade
+{
+  background-image:url("imgs/fundo-duvida.jpg");
+  border-radius: 5px ;
+  border: 5px;
+  padding: 6;
+  color: #09970f;
+  width: 200px;
+  float: right;
+  font-family: 'EB Garamond', serif;
+}
+/*
+⢸⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⡷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⡇⠢⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠈⠑⢦⡀⠀⠀⠀⠀⠀
+⢸⠀⠀⠀⠀⢀⠖⠒⠒⠒⢤⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠙⢦⡀⠀⠀⠀⠀
+⢸⠀⠀⣀⢤⣼⣀⡠⠤⠤⠼⠤⡄⠀⠀⡇⠀⠀⠀ARE⠀⠀⠀⠀⠙⢄⠀⠀⠀⠀
+⢸⠀⠀⠑⡤⠤⡒⠒⠒⡊⠙⡏⠀⢀⠀⡇⠀⠀⠀⠀⠀⠀⠀YA⠀⠀⠑⠢⡄⠀
+⢸⠀⠀⠀⠇⠀⣀⣀⣀⣀⢀⠧⠟⠁⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀WINNING⠀
+⢸⠀⠀⠀⠸⣀⠀⠀⠈⢉⠟⠓⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸ SON?
+⢸⠀⠀⠀⠀⠈⢱⡖⠋⠁⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸
+⢸⠀⠀⠀⠀⣠⢺⠧⢄⣀⠀⠀⣀⣀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸
+⢸⠀⠀⠀⣠⠃⢸⠀⠀⠈⠉⡽⠿⠯⡆⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸
+⢸⠀⠀⣰⠁⠀⢸⠀⠀⠀⠀⠉⠉⠉⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸
+⢸⠀⠀⠣⠀⠀⢸⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸
+⢸⠀⠀⠀⠀⠀⢸⠀⢇⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸
+⢸⠀⠀⠀⠀⠀⡌⠀⠈⡆⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸
+⢸⠀⠀⠀⠀⢠⠃⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸
+*/
+
+table
+{
+
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border-collapse: collapse;
+  background-color: white;
+  border: 1px solid black;
+  font-family: 'Caveat', cursive;
+  font
+}
+td, th
+{
+  padding-top: 20px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  padding-left: 20px;
+}
+thead
+{
+  background-color: blue ;
+  color: black ;
+  margin: auto 0%;
+  border: 1px solid black;
+}
+tbody
+{
+  background-image: url("https://i.pinimg.com/originals/9b/73/53/9b7353c0b1e1b4b29a90862da732a2b5.jpg") ;
+  color: black ;
+  margin: auto 0%;
+  border: 1px solid black;
+}
+tfoot
+{
+  background-color: red ;
+  margin: auto 0%;
+  border: 1px solid black;
+}
+.cabecalho
+{
+  width: auto;
+  text-align: center;
+}
+
+.link
+{
+  display: inline-block;
+  width: 10vw;
+  color: red;
+}
